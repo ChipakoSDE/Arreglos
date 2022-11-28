@@ -4,7 +4,7 @@ public class EjemploArreglosFor {
     public static void main(String[] args) {
 
         String[] productos = new String[7];
-        int count = productos.length; // no es buena practica obtener el lenght en cada iteración del for, por eso se asocia a una var antes
+        int count = productos.length; // no es buena práctica obtener el lenght en cada iteración del for, por eso se asocia a una var antes
 
         productos[0] = "Kingston pendrive 128Gb";
         productos[1] = "Samsung Galaxy S21";
