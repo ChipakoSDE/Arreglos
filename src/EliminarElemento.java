@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class EliminarElimento {
+public class EliminarElemento {
     public static void main(String[] args) {
         int[] a = new int[10];
         int[] b = new int[a.length-1];
